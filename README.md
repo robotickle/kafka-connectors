@@ -5,7 +5,7 @@
 
 
 
-## Run like this:
+## Run:
 
 Run the Consumer,Producer as below
 ```
