@@ -3,7 +3,7 @@
 
 > Java - Kafka Consumer and Producer.
 
-## Simple Change befor run:
+## Simple Change before run:
 ```
 Open pom.xml, and make sure you change the <mainClass> to either kafka.Consumer or kafka.Producer
 
